@@ -1,7 +1,7 @@
 # Change baseurl before deploy
 baseurl = "https://MileAlmonacid.github.io/My-Blog/"
 locale  = "en-us"
-title   = "Hugo Theme Stack Starter"
+title   = "Hola soy QA Bienvenido a mi mundo"
 
 # Theme i18n support
 # See all available values at https://github.com/CaiJimmy/hugo-theme-stack/tree/master/i18n
